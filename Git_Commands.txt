@@ -13,7 +13,7 @@ GITHUB:
 9. To add project: git add .(to add complete project)
 10. To commit project: git commit -m "Some comment"
 11. To push project: git push orign master
-12. To push code u need SSH key: acc setting-> SSH & GPG keys-> new SSH key-> browse manually generate SSH for windows(putty)
+12. To push code you need SSH key: acc setting-> SSH & GPG keys-> new SSH key-> browse manually generate SSH for windows(putty)
 13. Now again: git push orign master & enter system password
  
 To pull
