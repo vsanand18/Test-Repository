@@ -1,0 +1,29 @@
+GIT: Version control system(VCS)
+Github: web based hosting control
+
+GITHUB:
+1. Create github acc
+2. Create repo
+3. Create a maven project
+4. Command prompt (cd file location)
+5. Initialize -> git init 
+6. To check: ls -alt
+7. To establish connection: paste git command
+8. To check status of a file: git status
+9. To add project: git add .(to add complete project)
+10. To commit project: git commit -m "Some comment"
+11. To push project: git push orign master
+12. To push code u need SSH key: acc setting-> SSH & GPG keys-> new SSH key-> browse manually generate SSH for windows(putty)
+13. Now again: git push orign master & enter system password
+ 
+To pull
+1. cd..
+2. ls
+3. mkdir filename
+4. cd filename/
+5. For the first time create a clone
+6. To clone: git clone (github repository URL)
+7. If changes is made in the existing code: (go to the directory)cd directory-> git pull orign master
+8. To pull:git pull origin [branchname]
+9. To check which branch is pointed: git branch
+10. TO checkout: git checkout [branchname]
