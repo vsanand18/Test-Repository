@@ -24,6 +24,6 @@ To pull
 5. For the first time create a clone
 6. To clone: git clone (github repository URL)
 7. If changes is made in the existing code: (go to the directory)cd directory-> git pull orign master
-8. To pull:git pull origin [branchname]
+8. To pull: git pull origin [branchname]
 9. To check which branch is pointed: git branch
 10. TO checkout: git checkout [branchname]
