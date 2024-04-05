@@ -27,3 +27,5 @@ To pull
 8. To pull: git pull origin [branchname]
 9. To check which branch is pointed: git branch
 10. TO checkout: git checkout [branchname]
+
+11. Testing forking concepts
